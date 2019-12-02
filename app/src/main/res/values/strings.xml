@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practica_07</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="recuerdame">Recuérdame</string>
+    <string name="bienvenido_a_tu_app">Bienvenido a tu App!</string>
+</resources>
